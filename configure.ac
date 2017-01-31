@@ -1,6 +1,6 @@
-AC_INIT([guitarlearn], [0.1])
 AC_PREREQ([2.64])
-AM_INIT_AUTOMAKE([1.11 -Wall no-define subdirs-objects])
+AC_INIT([lgsc], [0.1], [anze.robic@gmail.com])
+AM_INIT_AUTOMAKE([foreign -Wall no-define subdir-objects])
 
 AC_CONFIG_HEADERS([config.h])
 AC_PROG_CXX

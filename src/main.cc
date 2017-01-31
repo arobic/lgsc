@@ -2,7 +2,9 @@
 #include <config.h>
 #endif
 
+#include <iostream>
+
 main()
 {
-    std::cout << "guitarlearn" << std::endl;
+    std::cout << "Hello lgsc" << std::endl;
 }
